@@ -1,4 +1,5 @@
 "use client";
+import UploadPage from "@/data/upload";
 import { Store, BellRing, ReceiptText, LogOut, SquareMenu } from "lucide-react";
 import { useRouter } from "next/navigation";
 
@@ -59,6 +60,7 @@ function SideBar() {
         </div>
 
         <div className="pb-10">
+          <div><UploadPage /></div>
           <span className="ps-4 d-inline-block text-center">
             <LogOut />
           </span>

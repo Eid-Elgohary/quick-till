@@ -1,7 +1,16 @@
+"use client";
+import { useEffect, useState } from "react";
+import { getAllProducts, Product } from "@/firebase/products";
 import Products from "./products/page";
 
 function Admin() {
-  return <Products />;
+  const [products, setProducts] = useState<Product[]>([]);
+
+  useEffect(() => {
+    getAllProducts().then(setProducts);
+  }, []);
+
+  return <Products productsArr={products} />;
 }
 
 export default Admin;

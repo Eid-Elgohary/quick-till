@@ -11,7 +11,7 @@ function AdminLayout({ children }: { children: React.ReactNode }) {
       <div className="flex-1 flex-column ">
         <Header />
 
-        <div className="py-2 px-4">{children}</div>
+        <main className="@container">{children}</main>
       </div>
     </div>
   );

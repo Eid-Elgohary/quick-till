@@ -1,0 +1,1758 @@
+{
+  "products": [
+    {
+      "product_id": 1001,
+      "product_name": "Vegetables Item 1",
+      "barcode": "BC0001",
+      "category_id": "vegetables",
+      "price": 66.54,
+      "cost": 39.92,
+      "quantity": 18,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550243"
+    },
+    {
+      "product_id": 1002,
+      "product_name": "Meat Item 2",
+      "barcode": "BC0002",
+      "category_id": "meat",
+      "price": 59.98,
+      "cost": 35.99,
+      "quantity": 39,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550269"
+    },
+    {
+      "product_id": 1003,
+      "product_name": "Others Item 3",
+      "barcode": "BC0003",
+      "category_id": "others",
+      "price": 10.23,
+      "cost": 6.14,
+      "quantity": 40,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550283"
+    },
+    {
+      "product_id": 1004,
+      "product_name": "Meat Item 4",
+      "barcode": "BC0004",
+      "category_id": "meat",
+      "price": 69.47,
+      "cost": 41.68,
+      "quantity": 9,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550297"
+    },
+    {
+      "product_id": 1005,
+      "product_name": "Dairy Item 5",
+      "barcode": "BC0005",
+      "category_id": "dairy",
+      "price": 12.41,
+      "cost": 7.45,
+      "quantity": 30,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550311"
+    },
+    {
+      "product_id": 1006,
+      "product_name": "Vegetables Item 6",
+      "barcode": "BC0006",
+      "category_id": "vegetables",
+      "price": 90.5,
+      "cost": 54.3,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550321"
+    },
+    {
+      "product_id": 1007,
+      "product_name": "Meat Item 7",
+      "barcode": "BC0007",
+      "category_id": "meat",
+      "price": 87.77,
+      "cost": 52.66,
+      "quantity": 28,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550328"
+    },
+    {
+      "product_id": 1008,
+      "product_name": "Dairy Item 8",
+      "barcode": "BC0008",
+      "category_id": "dairy",
+      "price": 53.99,
+      "cost": 32.39,
+      "quantity": 43,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550342"
+    },
+    {
+      "product_id": 1009,
+      "product_name": "Frozen Item 9",
+      "barcode": "BC0009",
+      "category_id": "frozen",
+      "price": 23.34,
+      "cost": 14.0,
+      "quantity": 36,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550352"
+    },
+    {
+      "product_id": 1010,
+      "product_name": "Fruits Item 10",
+      "barcode": "BC0010",
+      "category_id": "fruits",
+      "price": 80.89,
+      "cost": 48.53,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550363"
+    },
+    {
+      "product_id": 1011,
+      "product_name": "Dairy Item 11",
+      "barcode": "BC0011",
+      "category_id": "dairy",
+      "price": 82.35,
+      "cost": 49.41,
+      "quantity": 30,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550374"
+    },
+    {
+      "product_id": 1012,
+      "product_name": "Vegetables Item 12",
+      "barcode": "BC0012",
+      "category_id": "vegetables",
+      "price": 35.17,
+      "cost": 21.1,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550386"
+    },
+    {
+      "product_id": 1013,
+      "product_name": "Bakery Item 13",
+      "barcode": "BC0013",
+      "category_id": "bakery",
+      "price": 90.81,
+      "cost": 54.49,
+      "quantity": 43,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550398"
+    },
+    {
+      "product_id": 1014,
+      "product_name": "Drinks Item 14",
+      "barcode": "BC0014",
+      "category_id": "drinks",
+      "price": 71.61,
+      "cost": 42.97,
+      "quantity": 26,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550407"
+    },
+    {
+      "product_id": 1015,
+      "product_name": "Dairy Item 15",
+      "barcode": "BC0015",
+      "category_id": "dairy",
+      "price": 74.2,
+      "cost": 44.52,
+      "quantity": 26,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550414"
+    },
+    {
+      "product_id": 1016,
+      "product_name": "Snacks Item 16",
+      "barcode": "BC0016",
+      "category_id": "snacks",
+      "price": 25.2,
+      "cost": 15.12,
+      "quantity": 37,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550421"
+    },
+    {
+      "product_id": 1017,
+      "product_name": "Bakery Item 17",
+      "barcode": "BC0017",
+      "category_id": "bakery",
+      "price": 78.41,
+      "cost": 47.05,
+      "quantity": 38,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550428"
+    },
+    {
+      "product_id": 1018,
+      "product_name": "Meat Item 18",
+      "barcode": "BC0018",
+      "category_id": "meat",
+      "price": 76.26,
+      "cost": 45.76,
+      "quantity": 5,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550435"
+    },
+    {
+      "product_id": 1019,
+      "product_name": "Snacks Item 19",
+      "barcode": "BC0019",
+      "category_id": "snacks",
+      "price": 31.96,
+      "cost": 19.18,
+      "quantity": 39,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550441"
+    },
+    {
+      "product_id": 1020,
+      "product_name": "Dairy Item 20",
+      "barcode": "BC0020",
+      "category_id": "dairy",
+      "price": 84.39,
+      "cost": 50.63,
+      "quantity": 49,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550449"
+    },
+    {
+      "product_id": 1021,
+      "product_name": "Pizza Item 21",
+      "barcode": "BC0021",
+      "category_id": "pizza",
+      "price": 16.73,
+      "cost": 10.04,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550456"
+    },
+    {
+      "product_id": 1022,
+      "product_name": "Bakery Item 22",
+      "barcode": "BC0022",
+      "category_id": "bakery",
+      "price": 12.37,
+      "cost": 7.42,
+      "quantity": 42,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550463"
+    },
+    {
+      "product_id": 1023,
+      "product_name": "Frozen Item 23",
+      "barcode": "BC0023",
+      "category_id": "frozen",
+      "price": 85.06,
+      "cost": 51.04,
+      "quantity": 24,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550470"
+    },
+    {
+      "product_id": 1024,
+      "product_name": "Dairy Item 24",
+      "barcode": "BC0024",
+      "category_id": "dairy",
+      "price": 83.84,
+      "cost": 50.3,
+      "quantity": 38,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550476"
+    },
+    {
+      "product_id": 1025,
+      "product_name": "Pizza Item 25",
+      "barcode": "BC0025",
+      "category_id": "pizza",
+      "price": 82.0,
+      "cost": 49.2,
+      "quantity": 19,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550483"
+    },
+    {
+      "product_id": 1026,
+      "product_name": "Snacks Item 26",
+      "barcode": "BC0026",
+      "category_id": "snacks",
+      "price": 94.9,
+      "cost": 56.94,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550490"
+    },
+    {
+      "product_id": 1027,
+      "product_name": "Frozen Item 27",
+      "barcode": "BC0027",
+      "category_id": "frozen",
+      "price": 91.64,
+      "cost": 54.98,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550496"
+    },
+    {
+      "product_id": 1028,
+      "product_name": "Fruits Item 28",
+      "barcode": "BC0028",
+      "category_id": "fruits",
+      "price": 75.25,
+      "cost": 45.15,
+      "quantity": 45,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550503"
+    },
+    {
+      "product_id": 1029,
+      "product_name": "Vegetables Item 29",
+      "barcode": "BC0029",
+      "category_id": "vegetables",
+      "price": 78.93,
+      "cost": 47.36,
+      "quantity": 28,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550509"
+    },
+    {
+      "product_id": 1030,
+      "product_name": "Dairy Item 30",
+      "barcode": "BC0030",
+      "category_id": "dairy",
+      "price": 94.15,
+      "cost": 56.49,
+      "quantity": 35,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550518"
+    },
+    {
+      "product_id": 1031,
+      "product_name": "Fruits Item 31",
+      "barcode": "BC0031",
+      "category_id": "fruits",
+      "price": 48.47,
+      "cost": 29.08,
+      "quantity": 42,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550529"
+    },
+    {
+      "product_id": 1032,
+      "product_name": "Pizza Item 32",
+      "barcode": "BC0032",
+      "category_id": "pizza",
+      "price": 30.58,
+      "cost": 18.35,
+      "quantity": 26,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550539"
+    },
+    {
+      "product_id": 1033,
+      "product_name": "Snacks Item 33",
+      "barcode": "BC0033",
+      "category_id": "snacks",
+      "price": 89.3,
+      "cost": 53.58,
+      "quantity": 30,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550550"
+    },
+    {
+      "product_id": 1034,
+      "product_name": "Bakery Item 34",
+      "barcode": "BC0034",
+      "category_id": "bakery",
+      "price": 73.85,
+      "cost": 44.31,
+      "quantity": 16,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550561"
+    },
+    {
+      "product_id": 1035,
+      "product_name": "Fruits Item 35",
+      "barcode": "BC0035",
+      "category_id": "fruits",
+      "price": 21.08,
+      "cost": 12.65,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550573"
+    },
+    {
+      "product_id": 1036,
+      "product_name": "Dairy Item 36",
+      "barcode": "BC0036",
+      "category_id": "dairy",
+      "price": 86.25,
+      "cost": 51.75,
+      "quantity": 48,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550584"
+    },
+    {
+      "product_id": 1037,
+      "product_name": "Pizza Item 37",
+      "barcode": "BC0037",
+      "category_id": "pizza",
+      "price": 52.42,
+      "cost": 31.45,
+      "quantity": 12,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550596"
+    },
+    {
+      "product_id": 1038,
+      "product_name": "Bakery Item 38",
+      "barcode": "BC0038",
+      "category_id": "bakery",
+      "price": 80.8,
+      "cost": 48.48,
+      "quantity": 25,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550606"
+    },
+    {
+      "product_id": 1039,
+      "product_name": "Meat Item 39",
+      "barcode": "BC0039",
+      "category_id": "meat",
+      "price": 96.36,
+      "cost": 57.82,
+      "quantity": 35,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550617"
+    },
+    {
+      "product_id": 1040,
+      "product_name": "Dairy Item 40",
+      "barcode": "BC0040",
+      "category_id": "dairy",
+      "price": 76.61,
+      "cost": 45.97,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550627"
+    },
+    {
+      "product_id": 1041,
+      "product_name": "Snacks Item 41",
+      "barcode": "BC0041",
+      "category_id": "snacks",
+      "price": 91.77,
+      "cost": 55.06,
+      "quantity": 23,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550635"
+    },
+    {
+      "product_id": 1042,
+      "product_name": "Others Item 42",
+      "barcode": "BC0042",
+      "category_id": "others",
+      "price": 44.81,
+      "cost": 26.89,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550643"
+    },
+    {
+      "product_id": 1043,
+      "product_name": "Frozen Item 43",
+      "barcode": "BC0043",
+      "category_id": "frozen",
+      "price": 90.64,
+      "cost": 54.38,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550650"
+    },
+    {
+      "product_id": 1044,
+      "product_name": "Snacks Item 44",
+      "barcode": "BC0044",
+      "category_id": "snacks",
+      "price": 84.65,
+      "cost": 50.79,
+      "quantity": 40,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550657"
+    },
+    {
+      "product_id": 1045,
+      "product_name": "Bakery Item 45",
+      "barcode": "BC0045",
+      "category_id": "bakery",
+      "price": 67.0,
+      "cost": 40.2,
+      "quantity": 7,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550664"
+    },
+    {
+      "product_id": 1046,
+      "product_name": "Frozen Item 46",
+      "barcode": "BC0046",
+      "category_id": "frozen",
+      "price": 42.5,
+      "cost": 25.5,
+      "quantity": 23,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550670"
+    },
+    {
+      "product_id": 1047,
+      "product_name": "Dairy Item 47",
+      "barcode": "BC0047",
+      "category_id": "dairy",
+      "price": 53.54,
+      "cost": 32.12,
+      "quantity": 28,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550677"
+    },
+    {
+      "product_id": 1048,
+      "product_name": "Dairy Item 48",
+      "barcode": "BC0048",
+      "category_id": "dairy",
+      "price": 64.42,
+      "cost": 38.65,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550684"
+    },
+    {
+      "product_id": 1049,
+      "product_name": "Drinks Item 49",
+      "barcode": "BC0049",
+      "category_id": "drinks",
+      "price": 58.08,
+      "cost": 34.85,
+      "quantity": 22,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550691"
+    },
+    {
+      "product_id": 1050,
+      "product_name": "Dairy Item 50",
+      "barcode": "BC0050",
+      "category_id": "dairy",
+      "price": 15.63,
+      "cost": 9.38,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550697"
+    },
+    {
+      "product_id": 1051,
+      "product_name": "Bakery Item 51",
+      "barcode": "BC0051",
+      "category_id": "bakery",
+      "price": 73.27,
+      "cost": 43.96,
+      "quantity": 10,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550703"
+    },
+    {
+      "product_id": 1052,
+      "product_name": "Pizza Item 52",
+      "barcode": "BC0052",
+      "category_id": "pizza",
+      "price": 24.08,
+      "cost": 14.45,
+      "quantity": 26,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550710"
+    },
+    {
+      "product_id": 1053,
+      "product_name": "Dairy Item 53",
+      "barcode": "BC0053",
+      "category_id": "dairy",
+      "price": 46.23,
+      "cost": 27.74,
+      "quantity": 18,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550718"
+    },
+    {
+      "product_id": 1054,
+      "product_name": "Vegetables Item 54",
+      "barcode": "BC0054",
+      "category_id": "vegetables",
+      "price": 96.1,
+      "cost": 57.66,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550725"
+    },
+    {
+      "product_id": 1055,
+      "product_name": "Drinks Item 55",
+      "barcode": "BC0055",
+      "category_id": "drinks",
+      "price": 80.57,
+      "cost": 48.34,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550732"
+    },
+    {
+      "product_id": 1056,
+      "product_name": "Vegetables Item 56",
+      "barcode": "BC0056",
+      "category_id": "vegetables",
+      "price": 98.56,
+      "cost": 59.14,
+      "quantity": 16,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550738"
+    },
+    {
+      "product_id": 1057,
+      "product_name": "Others Item 57",
+      "barcode": "BC0057",
+      "category_id": "others",
+      "price": 73.89,
+      "cost": 44.33,
+      "quantity": 46,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550745"
+    },
+    {
+      "product_id": 1058,
+      "product_name": "Pizza Item 58",
+      "barcode": "BC0058",
+      "category_id": "pizza",
+      "price": 71.88,
+      "cost": 43.13,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550751"
+    },
+    {
+      "product_id": 1059,
+      "product_name": "Pizza Item 59",
+      "barcode": "BC0059",
+      "category_id": "pizza",
+      "price": 13.43,
+      "cost": 8.06,
+      "quantity": 40,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550758"
+    },
+    {
+      "product_id": 1060,
+      "product_name": "Fruits Item 60",
+      "barcode": "BC0060",
+      "category_id": "fruits",
+      "price": 30.7,
+      "cost": 18.42,
+      "quantity": 32,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550764"
+    },
+    {
+      "product_id": 1061,
+      "product_name": "Meat Item 61",
+      "barcode": "BC0061",
+      "category_id": "meat",
+      "price": 38.16,
+      "cost": 22.9,
+      "quantity": 27,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550771"
+    },
+    {
+      "product_id": 1062,
+      "product_name": "Snacks Item 62",
+      "barcode": "BC0062",
+      "category_id": "snacks",
+      "price": 74.32,
+      "cost": 44.59,
+      "quantity": 36,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550777"
+    },
+    {
+      "product_id": 1063,
+      "product_name": "Others Item 63",
+      "barcode": "BC0063",
+      "category_id": "others",
+      "price": 24.72,
+      "cost": 14.83,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550784"
+    },
+    {
+      "product_id": 1064,
+      "product_name": "Bakery Item 64",
+      "barcode": "BC0064",
+      "category_id": "bakery",
+      "price": 10.55,
+      "cost": 6.33,
+      "quantity": 31,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550791"
+    },
+    {
+      "product_id": 1065,
+      "product_name": "Frozen Item 65",
+      "barcode": "BC0065",
+      "category_id": "frozen",
+      "price": 95.29,
+      "cost": 57.17,
+      "quantity": 13,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550798"
+    },
+    {
+      "product_id": 1066,
+      "product_name": "Meat Item 66",
+      "barcode": "BC0066",
+      "category_id": "meat",
+      "price": 67.6,
+      "cost": 40.56,
+      "quantity": 23,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550805"
+    },
+    {
+      "product_id": 1067,
+      "product_name": "Others Item 67",
+      "barcode": "BC0067",
+      "category_id": "others",
+      "price": 26.62,
+      "cost": 15.97,
+      "quantity": 34,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550811"
+    },
+    {
+      "product_id": 1068,
+      "product_name": "Pizza Item 68",
+      "barcode": "BC0068",
+      "category_id": "pizza",
+      "price": 65.47,
+      "cost": 39.28,
+      "quantity": 27,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550832"
+    },
+    {
+      "product_id": 1069,
+      "product_name": "Meat Item 69",
+      "barcode": "BC0069",
+      "category_id": "meat",
+      "price": 23.17,
+      "cost": 13.9,
+      "quantity": 20,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550839"
+    },
+    {
+      "product_id": 1070,
+      "product_name": "Others Item 70",
+      "barcode": "BC0070",
+      "category_id": "others",
+      "price": 42.79,
+      "cost": 25.67,
+      "quantity": 43,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550846"
+    },
+    {
+      "product_id": 1071,
+      "product_name": "Snacks Item 71",
+      "barcode": "BC0071",
+      "category_id": "snacks",
+      "price": 56.3,
+      "cost": 33.78,
+      "quantity": 32,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550852"
+    },
+    {
+      "product_id": 1072,
+      "product_name": "Dairy Item 72",
+      "barcode": "BC0072",
+      "category_id": "dairy",
+      "price": 39.86,
+      "cost": 23.92,
+      "quantity": 15,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550858"
+    },
+    {
+      "product_id": 1073,
+      "product_name": "Vegetables Item 73",
+      "barcode": "BC0073",
+      "category_id": "vegetables",
+      "price": 17.34,
+      "cost": 10.4,
+      "quantity": 24,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550867"
+    },
+    {
+      "product_id": 1074,
+      "product_name": "Vegetables Item 74",
+      "barcode": "BC0074",
+      "category_id": "vegetables",
+      "price": 14.76,
+      "cost": 8.86,
+      "quantity": 17,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550877"
+    },
+    {
+      "product_id": 1075,
+      "product_name": "Frozen Item 75",
+      "barcode": "BC0075",
+      "category_id": "frozen",
+      "price": 46.52,
+      "cost": 27.91,
+      "quantity": 8,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550887"
+    },
+    {
+      "product_id": 1076,
+      "product_name": "Meat Item 76",
+      "barcode": "BC0076",
+      "category_id": "meat",
+      "price": 55.45,
+      "cost": 33.27,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550897"
+    },
+    {
+      "product_id": 1077,
+      "product_name": "Bakery Item 77",
+      "barcode": "BC0077",
+      "category_id": "bakery",
+      "price": 41.27,
+      "cost": 24.76,
+      "quantity": 14,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550909"
+    },
+    {
+      "product_id": 1078,
+      "product_name": "Meat Item 78",
+      "barcode": "BC0078",
+      "category_id": "meat",
+      "price": 49.54,
+      "cost": 29.72,
+      "quantity": 41,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550918"
+    },
+    {
+      "product_id": 1079,
+      "product_name": "Dairy Item 79",
+      "barcode": "BC0079",
+      "category_id": "dairy",
+      "price": 72.65,
+      "cost": 43.59,
+      "quantity": 12,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550924"
+    },
+    {
+      "product_id": 1080,
+      "product_name": "Drinks Item 80",
+      "barcode": "BC0080",
+      "category_id": "drinks",
+      "price": 90.81,
+      "cost": 54.49,
+      "quantity": 45,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550931"
+    },
+    {
+      "product_id": 1081,
+      "product_name": "Frozen Item 81",
+      "barcode": "BC0081",
+      "category_id": "frozen",
+      "price": 78.21,
+      "cost": 46.93,
+      "quantity": 19,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550939"
+    },
+    {
+      "product_id": 1082,
+      "product_name": "Fruits Item 82",
+      "barcode": "BC0082",
+      "category_id": "fruits",
+      "price": 15.84,
+      "cost": 9.5,
+      "quantity": 12,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550950"
+    },
+    {
+      "product_id": 1083,
+      "product_name": "Meat Item 83",
+      "barcode": "BC0083",
+      "category_id": "meat",
+      "price": 53.33,
+      "cost": 32.0,
+      "quantity": 44,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550960"
+    },
+    {
+      "product_id": 1084,
+      "product_name": "Dairy Item 84",
+      "barcode": "BC0084",
+      "category_id": "dairy",
+      "price": 70.45,
+      "cost": 42.27,
+      "quantity": 39,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550967"
+    },
+    {
+      "product_id": 1085,
+      "product_name": "Meat Item 85",
+      "barcode": "BC0085",
+      "category_id": "meat",
+      "price": 86.5,
+      "cost": 51.9,
+      "quantity": 11,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550974"
+    },
+    {
+      "product_id": 1086,
+      "product_name": "Meat Item 86",
+      "barcode": "BC0086",
+      "category_id": "meat",
+      "price": 39.03,
+      "cost": 23.42,
+      "quantity": 45,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550982"
+    },
+    {
+      "product_id": 1087,
+      "product_name": "Dairy Item 87",
+      "barcode": "BC0087",
+      "category_id": "dairy",
+      "price": 24.17,
+      "cost": 14.5,
+      "quantity": 24,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550988"
+    },
+    {
+      "product_id": 1088,
+      "product_name": "Frozen Item 88",
+      "barcode": "BC0088",
+      "category_id": "frozen",
+      "price": 68.82,
+      "cost": 41.29,
+      "quantity": 7,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.550994"
+    },
+    {
+      "product_id": 1089,
+      "product_name": "Fruits Item 89",
+      "barcode": "BC0089",
+      "category_id": "fruits",
+      "price": 24.72,
+      "cost": 14.83,
+      "quantity": 19,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551001"
+    },
+    {
+      "product_id": 1090,
+      "product_name": "Meat Item 90",
+      "barcode": "BC0090",
+      "category_id": "meat",
+      "price": 57.57,
+      "cost": 34.54,
+      "quantity": 47,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551007"
+    },
+    {
+      "product_id": 1091,
+      "product_name": "Others Item 91",
+      "barcode": "BC0091",
+      "category_id": "others",
+      "price": 70.12,
+      "cost": 42.07,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551017"
+    },
+    {
+      "product_id": 1092,
+      "product_name": "Drinks Item 92",
+      "barcode": "BC0092",
+      "category_id": "drinks",
+      "price": 79.58,
+      "cost": 47.75,
+      "quantity": 49,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551028"
+    },
+    {
+      "product_id": 1093,
+      "product_name": "Drinks Item 93",
+      "barcode": "BC0093",
+      "category_id": "drinks",
+      "price": 57.52,
+      "cost": 34.51,
+      "quantity": 29,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551039"
+    },
+    {
+      "product_id": 1094,
+      "product_name": "Frozen Item 94",
+      "barcode": "BC0094",
+      "category_id": "frozen",
+      "price": 11.96,
+      "cost": 7.18,
+      "quantity": 13,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551049"
+    },
+    {
+      "product_id": 1095,
+      "product_name": "Bakery Item 95",
+      "barcode": "BC0095",
+      "category_id": "bakery",
+      "price": 68.01,
+      "cost": 40.81,
+      "quantity": 33,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551056"
+    },
+    {
+      "product_id": 1096,
+      "product_name": "Others Item 96",
+      "barcode": "BC0096",
+      "category_id": "others",
+      "price": 68.89,
+      "cost": 41.33,
+      "quantity": 35,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551063"
+    },
+    {
+      "product_id": 1097,
+      "product_name": "Meat Item 97",
+      "barcode": "BC0097",
+      "category_id": "meat",
+      "price": 80.49,
+      "cost": 48.29,
+      "quantity": 6,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551070"
+    },
+    {
+      "product_id": 1098,
+      "product_name": "Bakery Item 98",
+      "barcode": "BC0098",
+      "category_id": "bakery",
+      "price": 12.91,
+      "cost": 7.75,
+      "quantity": 14,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551077"
+    },
+    {
+      "product_id": 1099,
+      "product_name": "Drinks Item 99",
+      "barcode": "BC0099",
+      "category_id": "drinks",
+      "price": 55.02,
+      "cost": 33.01,
+      "quantity": 9,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551084"
+    },
+    {
+      "product_id": 1100,
+      "product_name": "Fruits Item 100",
+      "barcode": "BC0100",
+      "category_id": "fruits",
+      "price": 10.54,
+      "cost": 6.32,
+      "quantity": 7,
+      "img": "img_url",
+      "created_at": "2025-06-24T12:53:17.551111"
+    }
+  ],
+  "inventory": [
+    {
+      "product_id": 1001,
+      "warehouse": "Main Storage",
+      "stock": 18,
+      "last_updated": "2025-06-24T12:53:17.550254"
+    },
+    {
+      "product_id": 1002,
+      "warehouse": "Main Storage",
+      "stock": 39,
+      "last_updated": "2025-06-24T12:53:17.550273"
+    },
+    {
+      "product_id": 1003,
+      "warehouse": "Main Storage",
+      "stock": 40,
+      "last_updated": "2025-06-24T12:53:17.550286"
+    },
+    {
+      "product_id": 1004,
+      "warehouse": "Main Storage",
+      "stock": 9,
+      "last_updated": "2025-06-24T12:53:17.550301"
+    },
+    {
+      "product_id": 1005,
+      "warehouse": "Main Storage",
+      "stock": 30,
+      "last_updated": "2025-06-24T12:53:17.550313"
+    },
+    {
+      "product_id": 1006,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550322"
+    },
+    {
+      "product_id": 1007,
+      "warehouse": "Main Storage",
+      "stock": 28,
+      "last_updated": "2025-06-24T12:53:17.550330"
+    },
+    {
+      "product_id": 1008,
+      "warehouse": "Main Storage",
+      "stock": 43,
+      "last_updated": "2025-06-24T12:53:17.550344"
+    },
+    {
+      "product_id": 1009,
+      "warehouse": "Main Storage",
+      "stock": 36,
+      "last_updated": "2025-06-24T12:53:17.550354"
+    },
+    {
+      "product_id": 1010,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550366"
+    },
+    {
+      "product_id": 1011,
+      "warehouse": "Main Storage",
+      "stock": 30,
+      "last_updated": "2025-06-24T12:53:17.550377"
+    },
+    {
+      "product_id": 1012,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.550389"
+    },
+    {
+      "product_id": 1013,
+      "warehouse": "Main Storage",
+      "stock": 43,
+      "last_updated": "2025-06-24T12:53:17.550402"
+    },
+    {
+      "product_id": 1014,
+      "warehouse": "Main Storage",
+      "stock": 26,
+      "last_updated": "2025-06-24T12:53:17.550409"
+    },
+    {
+      "product_id": 1015,
+      "warehouse": "Main Storage",
+      "stock": 26,
+      "last_updated": "2025-06-24T12:53:17.550416"
+    },
+    {
+      "product_id": 1016,
+      "warehouse": "Main Storage",
+      "stock": 37,
+      "last_updated": "2025-06-24T12:53:17.550423"
+    },
+    {
+      "product_id": 1017,
+      "warehouse": "Main Storage",
+      "stock": 38,
+      "last_updated": "2025-06-24T12:53:17.550429"
+    },
+    {
+      "product_id": 1018,
+      "warehouse": "Main Storage",
+      "stock": 5,
+      "last_updated": "2025-06-24T12:53:17.550437"
+    },
+    {
+      "product_id": 1019,
+      "warehouse": "Main Storage",
+      "stock": 39,
+      "last_updated": "2025-06-24T12:53:17.550443"
+    },
+    {
+      "product_id": 1020,
+      "warehouse": "Main Storage",
+      "stock": 49,
+      "last_updated": "2025-06-24T12:53:17.550451"
+    },
+    {
+      "product_id": 1021,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550458"
+    },
+    {
+      "product_id": 1022,
+      "warehouse": "Main Storage",
+      "stock": 42,
+      "last_updated": "2025-06-24T12:53:17.550465"
+    },
+    {
+      "product_id": 1023,
+      "warehouse": "Main Storage",
+      "stock": 24,
+      "last_updated": "2025-06-24T12:53:17.550472"
+    },
+    {
+      "product_id": 1024,
+      "warehouse": "Main Storage",
+      "stock": 38,
+      "last_updated": "2025-06-24T12:53:17.550478"
+    },
+    {
+      "product_id": 1025,
+      "warehouse": "Main Storage",
+      "stock": 19,
+      "last_updated": "2025-06-24T12:53:17.550485"
+    },
+    {
+      "product_id": 1026,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.550492"
+    },
+    {
+      "product_id": 1027,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550498"
+    },
+    {
+      "product_id": 1028,
+      "warehouse": "Main Storage",
+      "stock": 45,
+      "last_updated": "2025-06-24T12:53:17.550504"
+    },
+    {
+      "product_id": 1029,
+      "warehouse": "Main Storage",
+      "stock": 28,
+      "last_updated": "2025-06-24T12:53:17.550511"
+    },
+    {
+      "product_id": 1030,
+      "warehouse": "Main Storage",
+      "stock": 35,
+      "last_updated": "2025-06-24T12:53:17.550521"
+    },
+    {
+      "product_id": 1031,
+      "warehouse": "Main Storage",
+      "stock": 42,
+      "last_updated": "2025-06-24T12:53:17.550532"
+    },
+    {
+      "product_id": 1032,
+      "warehouse": "Main Storage",
+      "stock": 26,
+      "last_updated": "2025-06-24T12:53:17.550542"
+    },
+    {
+      "product_id": 1033,
+      "warehouse": "Main Storage",
+      "stock": 30,
+      "last_updated": "2025-06-24T12:53:17.550553"
+    },
+    {
+      "product_id": 1034,
+      "warehouse": "Main Storage",
+      "stock": 16,
+      "last_updated": "2025-06-24T12:53:17.550565"
+    },
+    {
+      "product_id": 1035,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.550576"
+    },
+    {
+      "product_id": 1036,
+      "warehouse": "Main Storage",
+      "stock": 48,
+      "last_updated": "2025-06-24T12:53:17.550586"
+    },
+    {
+      "product_id": 1037,
+      "warehouse": "Main Storage",
+      "stock": 12,
+      "last_updated": "2025-06-24T12:53:17.550598"
+    },
+    {
+      "product_id": 1038,
+      "warehouse": "Main Storage",
+      "stock": 25,
+      "last_updated": "2025-06-24T12:53:17.550609"
+    },
+    {
+      "product_id": 1039,
+      "warehouse": "Main Storage",
+      "stock": 35,
+      "last_updated": "2025-06-24T12:53:17.550620"
+    },
+    {
+      "product_id": 1040,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550630"
+    },
+    {
+      "product_id": 1041,
+      "warehouse": "Main Storage",
+      "stock": 23,
+      "last_updated": "2025-06-24T12:53:17.550637"
+    },
+    {
+      "product_id": 1042,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550645"
+    },
+    {
+      "product_id": 1043,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550652"
+    },
+    {
+      "product_id": 1044,
+      "warehouse": "Main Storage",
+      "stock": 40,
+      "last_updated": "2025-06-24T12:53:17.550659"
+    },
+    {
+      "product_id": 1045,
+      "warehouse": "Main Storage",
+      "stock": 7,
+      "last_updated": "2025-06-24T12:53:17.550665"
+    },
+    {
+      "product_id": 1046,
+      "warehouse": "Main Storage",
+      "stock": 23,
+      "last_updated": "2025-06-24T12:53:17.550672"
+    },
+    {
+      "product_id": 1047,
+      "warehouse": "Main Storage",
+      "stock": 28,
+      "last_updated": "2025-06-24T12:53:17.550679"
+    },
+    {
+      "product_id": 1048,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550686"
+    },
+    {
+      "product_id": 1049,
+      "warehouse": "Main Storage",
+      "stock": 22,
+      "last_updated": "2025-06-24T12:53:17.550692"
+    },
+    {
+      "product_id": 1050,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550699"
+    },
+    {
+      "product_id": 1051,
+      "warehouse": "Main Storage",
+      "stock": 10,
+      "last_updated": "2025-06-24T12:53:17.550705"
+    },
+    {
+      "product_id": 1052,
+      "warehouse": "Main Storage",
+      "stock": 26,
+      "last_updated": "2025-06-24T12:53:17.550712"
+    },
+    {
+      "product_id": 1053,
+      "warehouse": "Main Storage",
+      "stock": 18,
+      "last_updated": "2025-06-24T12:53:17.550720"
+    },
+    {
+      "product_id": 1054,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550727"
+    },
+    {
+      "product_id": 1055,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550734"
+    },
+    {
+      "product_id": 1056,
+      "warehouse": "Main Storage",
+      "stock": 16,
+      "last_updated": "2025-06-24T12:53:17.550740"
+    },
+    {
+      "product_id": 1057,
+      "warehouse": "Main Storage",
+      "stock": 46,
+      "last_updated": "2025-06-24T12:53:17.550747"
+    },
+    {
+      "product_id": 1058,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.550753"
+    },
+    {
+      "product_id": 1059,
+      "warehouse": "Main Storage",
+      "stock": 40,
+      "last_updated": "2025-06-24T12:53:17.550759"
+    },
+    {
+      "product_id": 1060,
+      "warehouse": "Main Storage",
+      "stock": 32,
+      "last_updated": "2025-06-24T12:53:17.550766"
+    },
+    {
+      "product_id": 1061,
+      "warehouse": "Main Storage",
+      "stock": 27,
+      "last_updated": "2025-06-24T12:53:17.550773"
+    },
+    {
+      "product_id": 1062,
+      "warehouse": "Main Storage",
+      "stock": 36,
+      "last_updated": "2025-06-24T12:53:17.550779"
+    },
+    {
+      "product_id": 1063,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550786"
+    },
+    {
+      "product_id": 1064,
+      "warehouse": "Main Storage",
+      "stock": 31,
+      "last_updated": "2025-06-24T12:53:17.550792"
+    },
+    {
+      "product_id": 1065,
+      "warehouse": "Main Storage",
+      "stock": 13,
+      "last_updated": "2025-06-24T12:53:17.550800"
+    },
+    {
+      "product_id": 1066,
+      "warehouse": "Main Storage",
+      "stock": 23,
+      "last_updated": "2025-06-24T12:53:17.550807"
+    },
+    {
+      "product_id": 1067,
+      "warehouse": "Main Storage",
+      "stock": 34,
+      "last_updated": "2025-06-24T12:53:17.550813"
+    },
+    {
+      "product_id": 1068,
+      "warehouse": "Main Storage",
+      "stock": 27,
+      "last_updated": "2025-06-24T12:53:17.550833"
+    },
+    {
+      "product_id": 1069,
+      "warehouse": "Main Storage",
+      "stock": 20,
+      "last_updated": "2025-06-24T12:53:17.550841"
+    },
+    {
+      "product_id": 1070,
+      "warehouse": "Main Storage",
+      "stock": 43,
+      "last_updated": "2025-06-24T12:53:17.550847"
+    },
+    {
+      "product_id": 1071,
+      "warehouse": "Main Storage",
+      "stock": 32,
+      "last_updated": "2025-06-24T12:53:17.550854"
+    },
+    {
+      "product_id": 1072,
+      "warehouse": "Main Storage",
+      "stock": 15,
+      "last_updated": "2025-06-24T12:53:17.550860"
+    },
+    {
+      "product_id": 1073,
+      "warehouse": "Main Storage",
+      "stock": 24,
+      "last_updated": "2025-06-24T12:53:17.550869"
+    },
+    {
+      "product_id": 1074,
+      "warehouse": "Main Storage",
+      "stock": 17,
+      "last_updated": "2025-06-24T12:53:17.550880"
+    },
+    {
+      "product_id": 1075,
+      "warehouse": "Main Storage",
+      "stock": 8,
+      "last_updated": "2025-06-24T12:53:17.550890"
+    },
+    {
+      "product_id": 1076,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550901"
+    },
+    {
+      "product_id": 1077,
+      "warehouse": "Main Storage",
+      "stock": 14,
+      "last_updated": "2025-06-24T12:53:17.550912"
+    },
+    {
+      "product_id": 1078,
+      "warehouse": "Main Storage",
+      "stock": 41,
+      "last_updated": "2025-06-24T12:53:17.550920"
+    },
+    {
+      "product_id": 1079,
+      "warehouse": "Main Storage",
+      "stock": 12,
+      "last_updated": "2025-06-24T12:53:17.550926"
+    },
+    {
+      "product_id": 1080,
+      "warehouse": "Main Storage",
+      "stock": 45,
+      "last_updated": "2025-06-24T12:53:17.550933"
+    },
+    {
+      "product_id": 1081,
+      "warehouse": "Main Storage",
+      "stock": 19,
+      "last_updated": "2025-06-24T12:53:17.550942"
+    },
+    {
+      "product_id": 1082,
+      "warehouse": "Main Storage",
+      "stock": 12,
+      "last_updated": "2025-06-24T12:53:17.550952"
+    },
+    {
+      "product_id": 1083,
+      "warehouse": "Main Storage",
+      "stock": 44,
+      "last_updated": "2025-06-24T12:53:17.550963"
+    },
+    {
+      "product_id": 1084,
+      "warehouse": "Main Storage",
+      "stock": 39,
+      "last_updated": "2025-06-24T12:53:17.550969"
+    },
+    {
+      "product_id": 1085,
+      "warehouse": "Main Storage",
+      "stock": 11,
+      "last_updated": "2025-06-24T12:53:17.550976"
+    },
+    {
+      "product_id": 1086,
+      "warehouse": "Main Storage",
+      "stock": 45,
+      "last_updated": "2025-06-24T12:53:17.550984"
+    },
+    {
+      "product_id": 1087,
+      "warehouse": "Main Storage",
+      "stock": 24,
+      "last_updated": "2025-06-24T12:53:17.550990"
+    },
+    {
+      "product_id": 1088,
+      "warehouse": "Main Storage",
+      "stock": 7,
+      "last_updated": "2025-06-24T12:53:17.550996"
+    },
+    {
+      "product_id": 1089,
+      "warehouse": "Main Storage",
+      "stock": 19,
+      "last_updated": "2025-06-24T12:53:17.551003"
+    },
+    {
+      "product_id": 1090,
+      "warehouse": "Main Storage",
+      "stock": 47,
+      "last_updated": "2025-06-24T12:53:17.551009"
+    },
+    {
+      "product_id": 1091,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.551020"
+    },
+    {
+      "product_id": 1092,
+      "warehouse": "Main Storage",
+      "stock": 49,
+      "last_updated": "2025-06-24T12:53:17.551031"
+    },
+    {
+      "product_id": 1093,
+      "warehouse": "Main Storage",
+      "stock": 29,
+      "last_updated": "2025-06-24T12:53:17.551042"
+    },
+    {
+      "product_id": 1094,
+      "warehouse": "Main Storage",
+      "stock": 13,
+      "last_updated": "2025-06-24T12:53:17.551051"
+    },
+    {
+      "product_id": 1095,
+      "warehouse": "Main Storage",
+      "stock": 33,
+      "last_updated": "2025-06-24T12:53:17.551058"
+    },
+    {
+      "product_id": 1096,
+      "warehouse": "Main Storage",
+      "stock": 35,
+      "last_updated": "2025-06-24T12:53:17.551064"
+    },
+    {
+      "product_id": 1097,
+      "warehouse": "Main Storage",
+      "stock": 6,
+      "last_updated": "2025-06-24T12:53:17.551072"
+    },
+    {
+      "product_id": 1098,
+      "warehouse": "Main Storage",
+      "stock": 14,
+      "last_updated": "2025-06-24T12:53:17.551079"
+    },
+    {
+      "product_id": 1099,
+      "warehouse": "Main Storage",
+      "stock": 9,
+      "last_updated": "2025-06-24T12:53:17.551086"
+    },
+    {
+      "product_id": 1100,
+      "warehouse": "Main Storage",
+      "stock": 7,
+      "last_updated": "2025-06-24T12:53:17.551114"
+    }
+  ],
+  "categories": [
+    {
+      "id": "pizza",
+      "name": "Pizza",
+      "icon": "\ud83c\udf55"
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "icon": "\ud83e\udd64"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks",
+      "icon": "\ud83c\udf6a"
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "icon": "\ud83e\udd56"
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy",
+      "icon": "\ud83e\uddc0"
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "icon": "\ud83c\udf4e"
+    },
+    {
+      "id": "vegetables",
+      "name": "Vegetables",
+      "icon": "\ud83e\udd66"
+    },
+    {
+      "id": "meat",
+      "name": "Meat",
+      "icon": "\ud83c\udf56"
+    },
+    {
+      "id": "frozen",
+      "name": "Frozen",
+      "icon": "\u2744\ufe0f"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "icon": "\ud83d\udce6"
+    }
+  ]
+}
