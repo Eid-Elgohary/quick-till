@@ -3,15 +3,12 @@ import SideBar from "@/components/ui/sideBar";
 
 function AdminLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="flex h-screen w-screen">
-      <div>
+    <div className="flex sm:ps-[150px] ">
         <SideBar />
-      </div>
 
-      <div className="flex-1 flex-column ">
+      <div className="w-full min-h-screen bg-white dark:bg-secondary relative">
         <Header />
-
-        <main className="@container">{children}</main>
+        <main className="py-2 px-3">{children}</main>
       </div>
     </div>
   );

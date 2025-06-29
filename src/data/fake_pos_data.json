@@ -7,7 +7,7 @@
       "category_id": "vegetables",
       "price": 66.54,
       "cost": 39.92,
-      "quantity": 18,
+      "stock": 18,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550243"
     },
@@ -18,7 +18,7 @@
       "category_id": "meat",
       "price": 59.98,
       "cost": 35.99,
-      "quantity": 39,
+      "stock": 39,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550269"
     },
@@ -29,7 +29,7 @@
       "category_id": "others",
       "price": 10.23,
       "cost": 6.14,
-      "quantity": 40,
+      "stock": 40,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550283"
     },
@@ -40,7 +40,7 @@
       "category_id": "meat",
       "price": 69.47,
       "cost": 41.68,
-      "quantity": 9,
+      "stock": 9,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550297"
     },
@@ -51,7 +51,7 @@
       "category_id": "dairy",
       "price": 12.41,
       "cost": 7.45,
-      "quantity": 30,
+      "stock": 30,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550311"
     },
@@ -62,7 +62,7 @@
       "category_id": "vegetables",
       "price": 90.5,
       "cost": 54.3,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550321"
     },
@@ -73,7 +73,7 @@
       "category_id": "meat",
       "price": 87.77,
       "cost": 52.66,
-      "quantity": 28,
+      "stock": 28,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550328"
     },
@@ -84,7 +84,7 @@
       "category_id": "dairy",
       "price": 53.99,
       "cost": 32.39,
-      "quantity": 43,
+      "stock": 43,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550342"
     },
@@ -95,7 +95,7 @@
       "category_id": "frozen",
       "price": 23.34,
       "cost": 14.0,
-      "quantity": 36,
+      "stock": 36,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550352"
     },
@@ -106,7 +106,7 @@
       "category_id": "fruits",
       "price": 80.89,
       "cost": 48.53,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550363"
     },
@@ -117,7 +117,7 @@
       "category_id": "dairy",
       "price": 82.35,
       "cost": 49.41,
-      "quantity": 30,
+      "stock": 30,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550374"
     },
@@ -128,7 +128,7 @@
       "category_id": "vegetables",
       "price": 35.17,
       "cost": 21.1,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550386"
     },
@@ -139,7 +139,7 @@
       "category_id": "bakery",
       "price": 90.81,
       "cost": 54.49,
-      "quantity": 43,
+      "stock": 43,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550398"
     },
@@ -150,7 +150,7 @@
       "category_id": "drinks",
       "price": 71.61,
       "cost": 42.97,
-      "quantity": 26,
+      "stock": 26,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550407"
     },
@@ -161,7 +161,7 @@
       "category_id": "dairy",
       "price": 74.2,
       "cost": 44.52,
-      "quantity": 26,
+      "stock": 26,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550414"
     },
@@ -172,7 +172,7 @@
       "category_id": "snacks",
       "price": 25.2,
       "cost": 15.12,
-      "quantity": 37,
+      "stock": 37,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550421"
     },
@@ -183,7 +183,7 @@
       "category_id": "bakery",
       "price": 78.41,
       "cost": 47.05,
-      "quantity": 38,
+      "stock": 38,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550428"
     },
@@ -194,7 +194,7 @@
       "category_id": "meat",
       "price": 76.26,
       "cost": 45.76,
-      "quantity": 5,
+      "stock": 5,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550435"
     },
@@ -205,7 +205,7 @@
       "category_id": "snacks",
       "price": 31.96,
       "cost": 19.18,
-      "quantity": 39,
+      "stock": 39,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550441"
     },
@@ -216,7 +216,7 @@
       "category_id": "dairy",
       "price": 84.39,
       "cost": 50.63,
-      "quantity": 49,
+      "stock": 49,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550449"
     },
@@ -227,7 +227,7 @@
       "category_id": "pizza",
       "price": 16.73,
       "cost": 10.04,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550456"
     },
@@ -238,7 +238,7 @@
       "category_id": "bakery",
       "price": 12.37,
       "cost": 7.42,
-      "quantity": 42,
+      "stock": 42,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550463"
     },
@@ -249,7 +249,7 @@
       "category_id": "frozen",
       "price": 85.06,
       "cost": 51.04,
-      "quantity": 24,
+      "stock": 24,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550470"
     },
@@ -260,7 +260,7 @@
       "category_id": "dairy",
       "price": 83.84,
       "cost": 50.3,
-      "quantity": 38,
+      "stock": 38,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550476"
     },
@@ -271,7 +271,7 @@
       "category_id": "pizza",
       "price": 82.0,
       "cost": 49.2,
-      "quantity": 19,
+      "stock": 19,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550483"
     },
@@ -282,7 +282,7 @@
       "category_id": "snacks",
       "price": 94.9,
       "cost": 56.94,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550490"
     },
@@ -293,7 +293,7 @@
       "category_id": "frozen",
       "price": 91.64,
       "cost": 54.98,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550496"
     },
@@ -304,7 +304,7 @@
       "category_id": "fruits",
       "price": 75.25,
       "cost": 45.15,
-      "quantity": 45,
+      "stock": 45,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550503"
     },
@@ -315,7 +315,7 @@
       "category_id": "vegetables",
       "price": 78.93,
       "cost": 47.36,
-      "quantity": 28,
+      "stock": 28,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550509"
     },
@@ -326,7 +326,7 @@
       "category_id": "dairy",
       "price": 94.15,
       "cost": 56.49,
-      "quantity": 35,
+      "stock": 35,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550518"
     },
@@ -337,7 +337,7 @@
       "category_id": "fruits",
       "price": 48.47,
       "cost": 29.08,
-      "quantity": 42,
+      "stock": 42,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550529"
     },
@@ -348,7 +348,7 @@
       "category_id": "pizza",
       "price": 30.58,
       "cost": 18.35,
-      "quantity": 26,
+      "stock": 26,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550539"
     },
@@ -359,7 +359,7 @@
       "category_id": "snacks",
       "price": 89.3,
       "cost": 53.58,
-      "quantity": 30,
+      "stock": 30,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550550"
     },
@@ -370,7 +370,7 @@
       "category_id": "bakery",
       "price": 73.85,
       "cost": 44.31,
-      "quantity": 16,
+      "stock": 16,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550561"
     },
@@ -381,7 +381,7 @@
       "category_id": "fruits",
       "price": 21.08,
       "cost": 12.65,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550573"
     },
@@ -392,7 +392,7 @@
       "category_id": "dairy",
       "price": 86.25,
       "cost": 51.75,
-      "quantity": 48,
+      "stock": 48,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550584"
     },
@@ -403,7 +403,7 @@
       "category_id": "pizza",
       "price": 52.42,
       "cost": 31.45,
-      "quantity": 12,
+      "stock": 12,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550596"
     },
@@ -414,7 +414,7 @@
       "category_id": "bakery",
       "price": 80.8,
       "cost": 48.48,
-      "quantity": 25,
+      "stock": 25,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550606"
     },
@@ -425,7 +425,7 @@
       "category_id": "meat",
       "price": 96.36,
       "cost": 57.82,
-      "quantity": 35,
+      "stock": 35,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550617"
     },
@@ -436,7 +436,7 @@
       "category_id": "dairy",
       "price": 76.61,
       "cost": 45.97,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550627"
     },
@@ -447,7 +447,7 @@
       "category_id": "snacks",
       "price": 91.77,
       "cost": 55.06,
-      "quantity": 23,
+      "stock": 23,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550635"
     },
@@ -458,7 +458,7 @@
       "category_id": "others",
       "price": 44.81,
       "cost": 26.89,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550643"
     },
@@ -469,7 +469,7 @@
       "category_id": "frozen",
       "price": 90.64,
       "cost": 54.38,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550650"
     },
@@ -480,7 +480,7 @@
       "category_id": "snacks",
       "price": 84.65,
       "cost": 50.79,
-      "quantity": 40,
+      "stock": 40,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550657"
     },
@@ -491,7 +491,7 @@
       "category_id": "bakery",
       "price": 67.0,
       "cost": 40.2,
-      "quantity": 7,
+      "stock": 7,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550664"
     },
@@ -502,7 +502,7 @@
       "category_id": "frozen",
       "price": 42.5,
       "cost": 25.5,
-      "quantity": 23,
+      "stock": 23,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550670"
     },
@@ -513,7 +513,7 @@
       "category_id": "dairy",
       "price": 53.54,
       "cost": 32.12,
-      "quantity": 28,
+      "stock": 28,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550677"
     },
@@ -524,7 +524,7 @@
       "category_id": "dairy",
       "price": 64.42,
       "cost": 38.65,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550684"
     },
@@ -535,7 +535,7 @@
       "category_id": "drinks",
       "price": 58.08,
       "cost": 34.85,
-      "quantity": 22,
+      "stock": 22,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550691"
     },
@@ -546,7 +546,7 @@
       "category_id": "dairy",
       "price": 15.63,
       "cost": 9.38,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550697"
     },
@@ -557,7 +557,7 @@
       "category_id": "bakery",
       "price": 73.27,
       "cost": 43.96,
-      "quantity": 10,
+      "stock": 10,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550703"
     },
@@ -568,7 +568,7 @@
       "category_id": "pizza",
       "price": 24.08,
       "cost": 14.45,
-      "quantity": 26,
+      "stock": 26,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550710"
     },
@@ -579,7 +579,7 @@
       "category_id": "dairy",
       "price": 46.23,
       "cost": 27.74,
-      "quantity": 18,
+      "stock": 18,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550718"
     },
@@ -590,7 +590,7 @@
       "category_id": "vegetables",
       "price": 96.1,
       "cost": 57.66,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550725"
     },
@@ -601,7 +601,7 @@
       "category_id": "drinks",
       "price": 80.57,
       "cost": 48.34,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550732"
     },
@@ -612,7 +612,7 @@
       "category_id": "vegetables",
       "price": 98.56,
       "cost": 59.14,
-      "quantity": 16,
+      "stock": 16,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550738"
     },
@@ -623,7 +623,7 @@
       "category_id": "others",
       "price": 73.89,
       "cost": 44.33,
-      "quantity": 46,
+      "stock": 46,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550745"
     },
@@ -634,7 +634,7 @@
       "category_id": "pizza",
       "price": 71.88,
       "cost": 43.13,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550751"
     },
@@ -645,7 +645,7 @@
       "category_id": "pizza",
       "price": 13.43,
       "cost": 8.06,
-      "quantity": 40,
+      "stock": 40,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550758"
     },
@@ -656,7 +656,7 @@
       "category_id": "fruits",
       "price": 30.7,
       "cost": 18.42,
-      "quantity": 32,
+      "stock": 32,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550764"
     },
@@ -667,7 +667,7 @@
       "category_id": "meat",
       "price": 38.16,
       "cost": 22.9,
-      "quantity": 27,
+      "stock": 27,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550771"
     },
@@ -678,7 +678,7 @@
       "category_id": "snacks",
       "price": 74.32,
       "cost": 44.59,
-      "quantity": 36,
+      "stock": 36,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550777"
     },
@@ -689,7 +689,7 @@
       "category_id": "others",
       "price": 24.72,
       "cost": 14.83,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550784"
     },
@@ -700,7 +700,7 @@
       "category_id": "bakery",
       "price": 10.55,
       "cost": 6.33,
-      "quantity": 31,
+      "stock": 31,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550791"
     },
@@ -711,7 +711,7 @@
       "category_id": "frozen",
       "price": 95.29,
       "cost": 57.17,
-      "quantity": 13,
+      "stock": 13,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550798"
     },
@@ -722,7 +722,7 @@
       "category_id": "meat",
       "price": 67.6,
       "cost": 40.56,
-      "quantity": 23,
+      "stock": 23,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550805"
     },
@@ -733,7 +733,7 @@
       "category_id": "others",
       "price": 26.62,
       "cost": 15.97,
-      "quantity": 34,
+      "stock": 34,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550811"
     },
@@ -744,7 +744,7 @@
       "category_id": "pizza",
       "price": 65.47,
       "cost": 39.28,
-      "quantity": 27,
+      "stock": 27,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550832"
     },
@@ -755,7 +755,7 @@
       "category_id": "meat",
       "price": 23.17,
       "cost": 13.9,
-      "quantity": 20,
+      "stock": 20,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550839"
     },
@@ -766,7 +766,7 @@
       "category_id": "others",
       "price": 42.79,
       "cost": 25.67,
-      "quantity": 43,
+      "stock": 43,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550846"
     },
@@ -777,7 +777,7 @@
       "category_id": "snacks",
       "price": 56.3,
       "cost": 33.78,
-      "quantity": 32,
+      "stock": 32,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550852"
     },
@@ -788,7 +788,7 @@
       "category_id": "dairy",
       "price": 39.86,
       "cost": 23.92,
-      "quantity": 15,
+      "stock": 15,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550858"
     },
@@ -799,7 +799,7 @@
       "category_id": "vegetables",
       "price": 17.34,
       "cost": 10.4,
-      "quantity": 24,
+      "stock": 24,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550867"
     },
@@ -810,7 +810,7 @@
       "category_id": "vegetables",
       "price": 14.76,
       "cost": 8.86,
-      "quantity": 17,
+      "stock": 17,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550877"
     },
@@ -821,7 +821,7 @@
       "category_id": "frozen",
       "price": 46.52,
       "cost": 27.91,
-      "quantity": 8,
+      "stock": 8,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550887"
     },
@@ -832,7 +832,7 @@
       "category_id": "meat",
       "price": 55.45,
       "cost": 33.27,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550897"
     },
@@ -843,7 +843,7 @@
       "category_id": "bakery",
       "price": 41.27,
       "cost": 24.76,
-      "quantity": 14,
+      "stock": 14,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550909"
     },
@@ -854,7 +854,7 @@
       "category_id": "meat",
       "price": 49.54,
       "cost": 29.72,
-      "quantity": 41,
+      "stock": 41,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550918"
     },
@@ -865,7 +865,7 @@
       "category_id": "dairy",
       "price": 72.65,
       "cost": 43.59,
-      "quantity": 12,
+      "stock": 12,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550924"
     },
@@ -876,7 +876,7 @@
       "category_id": "drinks",
       "price": 90.81,
       "cost": 54.49,
-      "quantity": 45,
+      "stock": 45,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550931"
     },
@@ -887,7 +887,7 @@
       "category_id": "frozen",
       "price": 78.21,
       "cost": 46.93,
-      "quantity": 19,
+      "stock": 19,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550939"
     },
@@ -898,7 +898,7 @@
       "category_id": "fruits",
       "price": 15.84,
       "cost": 9.5,
-      "quantity": 12,
+      "stock": 12,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550950"
     },
@@ -909,7 +909,7 @@
       "category_id": "meat",
       "price": 53.33,
       "cost": 32.0,
-      "quantity": 44,
+      "stock": 44,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550960"
     },
@@ -920,7 +920,7 @@
       "category_id": "dairy",
       "price": 70.45,
       "cost": 42.27,
-      "quantity": 39,
+      "stock": 39,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550967"
     },
@@ -931,7 +931,7 @@
       "category_id": "meat",
       "price": 86.5,
       "cost": 51.9,
-      "quantity": 11,
+      "stock": 11,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550974"
     },
@@ -942,7 +942,7 @@
       "category_id": "meat",
       "price": 39.03,
       "cost": 23.42,
-      "quantity": 45,
+      "stock": 45,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550982"
     },
@@ -953,7 +953,7 @@
       "category_id": "dairy",
       "price": 24.17,
       "cost": 14.5,
-      "quantity": 24,
+      "stock": 24,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550988"
     },
@@ -964,7 +964,7 @@
       "category_id": "frozen",
       "price": 68.82,
       "cost": 41.29,
-      "quantity": 7,
+      "stock": 7,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.550994"
     },
@@ -975,7 +975,7 @@
       "category_id": "fruits",
       "price": 24.72,
       "cost": 14.83,
-      "quantity": 19,
+      "stock": 19,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551001"
     },
@@ -986,7 +986,7 @@
       "category_id": "meat",
       "price": 57.57,
       "cost": 34.54,
-      "quantity": 47,
+      "stock": 47,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551007"
     },
@@ -997,7 +997,7 @@
       "category_id": "others",
       "price": 70.12,
       "cost": 42.07,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551017"
     },
@@ -1008,7 +1008,7 @@
       "category_id": "drinks",
       "price": 79.58,
       "cost": 47.75,
-      "quantity": 49,
+      "stock": 49,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551028"
     },
@@ -1019,7 +1019,7 @@
       "category_id": "drinks",
       "price": 57.52,
       "cost": 34.51,
-      "quantity": 29,
+      "stock": 29,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551039"
     },
@@ -1030,7 +1030,7 @@
       "category_id": "frozen",
       "price": 11.96,
       "cost": 7.18,
-      "quantity": 13,
+      "stock": 13,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551049"
     },
@@ -1041,7 +1041,7 @@
       "category_id": "bakery",
       "price": 68.01,
       "cost": 40.81,
-      "quantity": 33,
+      "stock": 33,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551056"
     },
@@ -1052,7 +1052,7 @@
       "category_id": "others",
       "price": 68.89,
       "cost": 41.33,
-      "quantity": 35,
+      "stock": 35,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551063"
     },
@@ -1063,7 +1063,7 @@
       "category_id": "meat",
       "price": 80.49,
       "cost": 48.29,
-      "quantity": 6,
+      "stock": 6,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551070"
     },
@@ -1074,7 +1074,7 @@
       "category_id": "bakery",
       "price": 12.91,
       "cost": 7.75,
-      "quantity": 14,
+      "stock": 14,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551077"
     },
@@ -1085,7 +1085,7 @@
       "category_id": "drinks",
       "price": 55.02,
       "cost": 33.01,
-      "quantity": 9,
+      "stock": 9,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551084"
     },
@@ -1096,7 +1096,7 @@
       "category_id": "fruits",
       "price": 10.54,
       "cost": 6.32,
-      "quantity": 7,
+      "stock": 7,
       "img": "img_url",
       "created_at": "2025-06-24T12:53:17.551111"
     }

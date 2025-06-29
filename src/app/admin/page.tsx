@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import { getAllProducts, Product } from "@/firebase/products";
+import { getAllProducts, Product } from "@/firebase/productsUtils";
 import Products from "./products/page";
 
 function Admin() {

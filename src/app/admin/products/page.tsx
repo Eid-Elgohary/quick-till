@@ -1,26 +1,49 @@
+"use client";
 import CategorySlider from "@/components/productsUI/CategorySlider";
+import Order from "@/components/productsUI/Order";
 import ProductCard from "@/components/productsUI/ProductCard";
+import { useState } from "react";
 
-function Products( {productsArr}) {
+type productsProps = {
+  product_id: number;
+  price: number;
+  quantity: number;
+  product_name: string;
+};
 
+function Products({ productsArr }: productsProps[]) {
+  const [orders, setOrders] = useState<productsProps[]>([]);
 
-  return(
-  <div className="flex max-w-full">
-    <div >
-      <div className="overflow-hidden">
-        <h1 className="text-xl text-primary font-bold ps-2">categories</h1>
-        <CategorySlider />
+  if (!productsArr || productsArr.length === 0) {
+    return (
+      <div className="text-center text-gray-500">No products available</div>
+    );
+  }
+
+  return (
+    <div className="flex pt-[72px] pe-[180px] sm:pe-[250px] md:pe-[290px] max-w-full">
+      <div className="w-full ">
+        <div className="overflow-hidden ">
+          {/* <h1 className="text-xl text-primary font-bold p-2">categories</h1> */}
+          <CategorySlider />
+        </div>
+
+        <div className="flex flex-wrap h-screen overflow-scroll gap-2 px-2 mt-2">
+          {productsArr.map((item: any) => (
+            <ProductCard
+              key={item.product_id}
+              setOrder={setOrders}
+              product={item}
+            />
+          ))}
+        </div>
       </div>
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 px-2 mt-2">
-        {productsArr.map(product => (
 
-          <h1 key={product.product_id} >{product.product_name}</h1>
-        ))}
+      <div className="w-[180px] bg-secondary min-h-[90vh] sm:w-[250px] md:w-[290px] fixed right-0 top-[72px] rounded-lg py-2 pe-1 sm:pe-2 md:pe-3">
+        <Order orders={orders} setOrders={setOrders} />
       </div>
     </div>
-  </div>);
+  );
 }
 
 export default Products;
-
-

@@ -1,10 +1,8 @@
-// 📁 /scripts/uploadData.ts
 "use server";
 
 import { db } from "@/firebase/firebase";
 import { doc, setDoc } from "firebase/firestore";
 
-// استيراد الملف المحلي
 import data from "@/data/fake_pos_data.json";
 
 export async function uploadAllFakeData() {

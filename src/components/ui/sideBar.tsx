@@ -33,8 +33,8 @@ function SideBar() {
   }
 
   return (
-    <aside>
-      <div className="w-[150px] h-screen p-4 rounded-r-lg flex flex-col justify-between items-center bg-secondary">
+    <aside className="hidden sm:block  fixed top-0 left-0 z-50 h-screen w-[150px]">
+      <div className="h-screen p-4 pt-6 rounded-r-lg flex flex-col justify-between items-center bg-secondary">
         <div className="text-center">
           <div>
             <h1 className="mb-6 text-lg font-bold tracking-wider text-primary uppercase">
